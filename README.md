@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shazorwyn
-- 👀 I’m interested in ML/AI, GameDev
+- 👀 I’m interested in ML/AI and GameDev.
 - 🌱 I’m currently learning Machine Learning
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Human
